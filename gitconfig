@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = theotime.frison@gmail.com
+	name = Theotime Frison
